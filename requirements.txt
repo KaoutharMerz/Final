@@ -156,7 +156,7 @@ sqlparse==0.4.4
 stack-data==0.6.3
 tensorboard==2.16.2
 tensorboard-data-server==0.7.2
-tensorflow-intel==2.16.1
+tensorflow==2.16.1
 termcolor==2.4.0
 terminado==0.18.1
 threadpoolctl==3.4.0
