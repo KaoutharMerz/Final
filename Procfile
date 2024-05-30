@@ -1,1 +1,1 @@
-web: gunicorn plateform.wsgi
+web: gunicorn air_quality.wsgi
